@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+publish/
