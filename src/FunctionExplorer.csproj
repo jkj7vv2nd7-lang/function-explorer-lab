@@ -7,5 +7,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>関数探究ラボ</AssemblyName>
     <RootNamespace>FunctionExplorer</RootNamespace>
+    <ApplicationIcon>Assets\function-explorer.ico</ApplicationIcon>
   </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Assets\function-explorer.ico" />
+  </ItemGroup>
 </Project>
